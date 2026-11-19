@@ -10,7 +10,7 @@ multiformat_supported: will-bid-on-any
 sidebarType: 1
 ---
 
-MediaConsortium doesn't require inventory parameters - we'll match your inventory using a combination of placement code (or ad unit code when no placement code is set) and domain.
+MediaConsortium doesn't require inventory parameters - we'll match your inventory using a combination of ad unit code and domain. You can optionally set a `placementCode` to identify the placement instead of the ad unit code.
 
 ## Bid Params
 
